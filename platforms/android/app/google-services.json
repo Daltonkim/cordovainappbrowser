@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "131019062068",
+    "firebase_url": "https://workshop-cfad1.firebaseio.com",
+    "project_id": "workshop-cfad1",
+    "storage_bucket": "workshop-cfad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131019062068:android:52171687fae738b1",
+        "android_client_info": {
+          "package_name": "com.yourname.workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131019062068-bb5c6c756fgf90i20rid90m2fl2sgp05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT2wmSj8l8SgI5ZblwWTtM65dP0Zb_eCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

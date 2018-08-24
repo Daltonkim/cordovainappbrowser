@@ -1,0 +1,31 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.yourname.workshop"
+    },
+    "phonegap-plugin-push": {
+      "FCM_VERSION": "11.6.2",
+      "PACKAGE_NAME": "com.yourname.workshop"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.yourname.workshop"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.yourname.workshop"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.yourname.workshop"
+    },
+    "cordova-plugin-transport-security": {
+      "PACKAGE_NAME": "com.yourname.workshop"
+    }
+  },
+  "dependent_plugins": {}
+}
