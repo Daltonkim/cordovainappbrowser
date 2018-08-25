@@ -55,6 +55,62 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "C:\\Users\\HP EliteBook 1040 G3\\Music\\businessleader\\cordovainappbrowser\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP EliteBook 1040 G3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.6.2.aar\\46b21c37249c211272171a437803fc5a\\res\\values-ta\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "224",
+                        "endOffsets": "509"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "224",
+                        "endOffsets": "325"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP EliteBook 1040 G3\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-11.6.2.aar\\60b960e8554fe86144d5cf2528d52b74\\res\\values-ta\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "243",
+                        "endColumns": "100",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "330",
+                        "endColumns": "104",
+                        "endOffsets": "430"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP EliteBook 1040 G3\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\dc1c5c1c48e9f488b2ebd13f34bb7834\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "435",
+                        "endColumns": "100",
+                        "endOffsets": "531"
+                    }
+                }
+            ]
         }
     ]
 }

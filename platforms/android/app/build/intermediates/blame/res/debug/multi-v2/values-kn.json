@@ -1,6 +1,62 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\HP EliteBook 1040 G3\\Music\\businessleader\\cordovainappbrowser\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP EliteBook 1040 G3\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\dc1c5c1c48e9f488b2ebd13f34bb7834\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "413",
+                        "endColumns": "100",
+                        "endOffsets": "509"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP EliteBook 1040 G3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.6.2.aar\\46b21c37249c211272171a437803fc5a\\res\\values-kn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "204",
+                        "endOffsets": "489"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "204",
+                        "endOffsets": "305"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP EliteBook 1040 G3\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-11.6.2.aar\\60b960e8554fe86144d5cf2528d52b74\\res\\values-kn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "243",
+                        "endColumns": "98",
+                        "endOffsets": "341"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endColumns": "102",
+                        "endOffsets": "408"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\HP EliteBook 1040 G3\\Desktop\\cordova\\workshop\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
             "map": [
                 {

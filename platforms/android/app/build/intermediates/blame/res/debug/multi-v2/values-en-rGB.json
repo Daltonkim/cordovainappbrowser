@@ -1,6 +1,62 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\HP EliteBook 1040 G3\\Music\\businessleader\\cordovainappbrowser\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP EliteBook 1040 G3\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-11.6.2.aar\\60b960e8554fe86144d5cf2528d52b74\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "107",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "302",
+                        "endColumns": "111",
+                        "endOffsets": "409"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP EliteBook 1040 G3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.6.2.aar\\46b21c37249c211272171a437803fc5a\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "196",
+                        "endOffsets": "485"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "196",
+                        "endOffsets": "297"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP EliteBook 1040 G3\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\dc1c5c1c48e9f488b2ebd13f34bb7834\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "414",
+                        "endColumns": "100",
+                        "endOffsets": "510"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\HP EliteBook 1040 G3\\Desktop\\cordova\\workshop\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
             "map": [
                 {
