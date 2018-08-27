@@ -45,7 +45,7 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
     	var openWindow = function() {
-            var ref = cordova.InAppBrowser.open('https://www.businessleaders.nl/index.php?r=app/index', '_blank', 'location=no,zoom=no,toolbar=no');
+            var ref = cordova.InAppBrowser.open('https://www.clubgroeneveld.nl/', '_blank', 'location=no,zoom=no,toolbar=no');
             ref.addEventListener('exit', function(event) { navigator.app.exitApp() });
             var loadStop = function(event) {
             	app.enablePushNotifications(ref);
