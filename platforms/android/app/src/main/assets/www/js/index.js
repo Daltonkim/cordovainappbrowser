@@ -45,11 +45,15 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
     	var openWindow = function() {
-            var ref = cordova.InAppBrowser.open('https://www.clubgroeneveld.nl/', '_blank', 'location=no,zoom=no,toolbar=no');
-            ref.addEventListener('exit', function(event) { navigator.app.exitApp() });
+            var ref = cordova.InAppBrowser.open('https://www.clubgroeneveld.nl/login/item16', '_blank', 'location=no,zoom=no,toolbar=no');
+			ref.addEventListener('exit', function(event) { navigator.app.exitApp()
+				navigator.notification.activityStart("", "loading");
+			});
             var loadStop = function(event) {
-            	app.enablePushNotifications(ref);
-            	ref.removeEventListener('loadstop', loadStop);
+				app.enablePushNotifications(ref);
+				navigator.notification.activityStop();
+				ref.removeEventListener('loadstop', loadStop);
+				
             };
             ref.addEventListener('loadstop', loadStop);      	
         };
